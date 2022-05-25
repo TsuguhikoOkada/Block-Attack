@@ -1,8 +1,8 @@
 # Visual Scripting
-/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db/
-/Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta/
-/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers/
-/Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta/
+Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db
+Assets/Unity.VisualScripting.Generated/VisualScripting.Flow/UnitOptions.db.meta
+Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers
+Assets/Unity.VisualScripting.Generated/VisualScripting.Core/Property Providers.meta
 
 # This .gitignore file should be placed at the root of your Unity project directory
 # Unity
